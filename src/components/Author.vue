@@ -6,7 +6,7 @@
 		</h1>
 
 		<p class="author__intro">
-			Optimise your website's performance to improve your technical SEO setup and overall marketing success
+			Start by improving your technical SEO
 		</p>
 
 		<p class="author__links">
