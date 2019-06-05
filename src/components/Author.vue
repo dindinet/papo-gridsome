@@ -52,7 +52,7 @@ export default {
 	&__site-title {
 		margin: 0 auto;
 		font-size: 1.5em;
-		max-width: 400px;
+		/*max-width: 400px;*/
 	}
 
 	&__links {
